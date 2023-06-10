@@ -1,1 +1,1 @@
-# -castlezone-functions-application
+# castlezone-functions-application
